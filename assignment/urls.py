@@ -7,5 +7,3 @@ urlpatterns = [
     # Other URL patterns of your project
     path('mainapp/', include('mainapp.urls')),
 ]
-
-# siglbjytwhomiqhk
